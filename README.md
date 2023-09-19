@@ -1,10 +1,9 @@
 ### About
-My name is Nick and I am a Penetration Tester Intern at White Oak Security. I have a wide array projects and a diverse skill set in infosec, software engineering, and systems networking.
+My name is Nick and I am a Cybersecurity Intern at Tyler Technologies. I have a wide array projects and a diverse skill set in infosec, software engineering, and systems networking.
 
 - 🔭 I’m currently working on ...
-  * Completing PortSwigger labs and obtaining Burpsuite Practitioner certification
   * Polishing a few projects while possibly adding a few features in the process
-  * Possibly pushing out a new concept when time permits
+  * Possibly pushing out concepts when time permits
 
 - 📔 I plan on working on ... 
   * Custom Rust reverse shell
