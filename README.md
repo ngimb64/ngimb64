@@ -1,5 +1,5 @@
 ### About
-My name is Nick and I am a Cybersecurity Intern at Tyler Technologies. I have a wide array projects and a diverse skill set in infosec, software engineering, and systems networking.
+My name is Nick and I am a Security Engineer. I have a wide array projects and a diverse skill set in infosec, software engineering, and systems networking.
 
 - 🔭 I’m currently working on ...
   * Polishing a few projects while possibly adding a few features in the process
